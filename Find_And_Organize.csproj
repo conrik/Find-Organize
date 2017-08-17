@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AEC6CF43-6F8F-4475-B720-17D3333F09B7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Find_And_Organize</RootNamespace>
+    <AssemblyName>Find_And_Organize</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="duplicata\frm_deletar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="duplicata\frm_deletar.designer.cs">
+      <DependentUpon>frm_deletar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="duplicata\frm_inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="duplicata\frm_inicio.designer.cs">
+      <DependentUpon>frm_inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="duplicata\frm_resultado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="duplicata\frm_resultado.designer.cs">
+      <DependentUpon>frm_resultado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="etc\enums.cs" />
+    <Compile Include="frm_principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_principal.designer.cs">
+      <DependentUpon>frm_principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="etc\MFT.cs" />
+    <Compile Include="home\frm_home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="home\frm_home.designer.cs">
+      <DependentUpon>frm_home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="organizar\frm_destino.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="organizar\frm_destino.designer.cs">
+      <DependentUpon>frm_destino.cs</DependentUpon>
+    </Compile>
+    <Compile Include="organizar\frm_enumerar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="organizar\frm_enumerar.designer.cs">
+      <DependentUpon>frm_enumerar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="organizar\frm_mover.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="organizar\frm_mover.designer.cs">
+      <DependentUpon>frm_mover.cs</DependentUpon>
+    </Compile>
+    <Compile Include="organizar\frm_origem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="organizar\frm_origem.designer.cs">
+      <DependentUpon>frm_origem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="etc\Pesquisa.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="etc\structs.cs" />
+    <Compile Include="renomear\frm_renomear.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="renomear\frm_renomear.designer.cs">
+      <DependentUpon>frm_renomear.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="duplicata\frm_deletar.resx">
+      <DependentUpon>frm_deletar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="duplicata\frm_inicio.resx">
+      <DependentUpon>frm_inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="duplicata\frm_resultado.resx">
+      <DependentUpon>frm_resultado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_principal.resx">
+      <DependentUpon>frm_principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="home\frm_home.resx">
+      <DependentUpon>frm_home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="organizar\frm_destino.resx">
+      <DependentUpon>frm_destino.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="organizar\frm_enumerar.resx">
+      <DependentUpon>frm_enumerar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="organizar\frm_mover.resx">
+      <DependentUpon>frm_mover.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="organizar\frm_origem.resx">
+      <DependentUpon>frm_origem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="renomear\frm_renomear.resx">
+      <DependentUpon>frm_renomear.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="logo.ico" />
+    <Content Include="Resources\botao_duplicatas.png" />
+    <Content Include="Resources\botao_home.png" />
+    <Content Include="Resources\botao_organizar.png" />
+    <Content Include="Resources\botao_rename.png" />
+    <None Include="Resources\logo4.png" />
+    <None Include="Resources\logo2.png" />
+    <None Include="Resources\logo 3.png" />
+    <None Include="Resources\wa.png" />
+    <None Include="Resources\warning-2-256.png" />
+    <None Include="Resources\botão organizar.png" />
+    <None Include="Resources\botão duplicatas.png" />
+    <None Include="Resources\Botão Rename.png" />
+    <None Include="Resources\grafico de merda.png" />
+    <None Include="Resources\Logo O o O oo O ooooooo O.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

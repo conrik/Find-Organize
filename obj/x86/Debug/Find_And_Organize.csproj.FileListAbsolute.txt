@@ -1,0 +1,119 @@
+c:\users\dimmy\documents\visual studio 2010\Projects\Find_And_Organize\obj\x86\Debug\Find_And_Organize.Properties.Resources.resources
+c:\users\dimmy\documents\visual studio 2010\Projects\Find_And_Organize\obj\x86\Debug\Find_And_Organize.csproj.GenerateResource.Cache
+c:\users\dimmy\documents\visual studio 2010\Projects\Find_And_Organize\obj\x86\Debug\Find_And_Organize.frm_principal.resources
+c:\users\dimmy\documents\visual studio 2010\Projects\Find_And_Organize\bin\Debug\Find_And_Organize.exe
+c:\users\dimmy\documents\visual studio 2010\Projects\Find_And_Organize\bin\Debug\Find_And_Organize.pdb
+c:\users\dimmy\documents\visual studio 2010\Projects\Find_And_Organize\obj\x86\Debug\Find_And_Organize.exe
+c:\users\dimmy\documents\visual studio 2010\Projects\Find_And_Organize\obj\x86\Debug\Find_And_Organize.pdb
+E:\Informatica\3F2\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.exe
+E:\Informatica\3F2\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.pdb
+E:\Informatica\3F2\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.frm_principal.resources
+E:\Informatica\3F2\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.csproj.GenerateResource.Cache
+E:\Informatica\3F2\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.Properties.Resources.resources
+E:\Informatica\3F2\TCC\Find_And_Organize\bin\Debug\Find_And_Organize.exe
+E:\Informatica\3F2\TCC\Find_And_Organize\bin\Debug\Find_And_Organize.pdb
+E:\Informatica\3F2\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.frm_destino.resources
+E:\Informatica\3F2\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.frm_enumerar.resources
+E:\Informatica\3F2\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.frm_mover.resources
+E:\Informatica\3F2\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.frm_origem.resources
+E:\Informatica\3F2\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.frm_home.resources
+E:\Informatica\3F2\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.csprojResolveAssemblyReference.cache
+D:\Informatica\3F2\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.exe
+D:\Informatica\3F2\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.pdb
+D:\Informatica\3F2\TCC\Find_And_Organize\bin\Debug\Find_And_Organize.exe
+D:\Informatica\3F2\TCC\Find_And_Organize\bin\Debug\Find_And_Organize.pdb
+D:\Informatica\3F2\TCC\Find_And_Organize\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Informatica\3F2\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.frm_principal.resources
+D:\Informatica\3F2\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.frm_home.resources
+D:\Informatica\3F2\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.frm_destino.resources
+D:\Informatica\3F2\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.frm_enumerar.resources
+D:\Informatica\3F2\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.frm_mover.resources
+D:\Informatica\3F2\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.frm_origem.resources
+D:\Informatica\3F2\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.Properties.Resources.resources
+D:\Informatica\3F2\TCC\Find_And_Organize\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Informatica\3F2\TCC\Find_And_Organize\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dimmy\Desktop\Find_And_Organize\obj\x86\Debug\Find_And_Organize.exe
+C:\Users\dimmy\Desktop\Find_And_Organize\obj\x86\Debug\Find_And_Organize.pdb
+C:\Users\dimmy\Desktop\Find_And_Organize\bin\Debug\Find_And_Organize.exe
+C:\Users\dimmy\Desktop\Find_And_Organize\bin\Debug\Find_And_Organize.pdb
+C:\Users\dimmy\Desktop\Find_And_Organize\obj\x86\Debug\Find_And_Organize.csprojResolveAssemblyReference.cache
+C:\Users\dimmy\Desktop\Find_And_Organize\obj\x86\Debug\Find_And_Organize.frm_principal.resources
+C:\Users\dimmy\Desktop\Find_And_Organize\obj\x86\Debug\Find_And_Organize.frm_home.resources
+C:\Users\dimmy\Desktop\Find_And_Organize\obj\x86\Debug\Find_And_Organize.frm_destino.resources
+C:\Users\dimmy\Desktop\Find_And_Organize\obj\x86\Debug\Find_And_Organize.frm_enumerar.resources
+C:\Users\dimmy\Desktop\Find_And_Organize\obj\x86\Debug\Find_And_Organize.frm_mover.resources
+C:\Users\dimmy\Desktop\Find_And_Organize\obj\x86\Debug\Find_And_Organize.frm_origem.resources
+C:\Users\dimmy\Desktop\Find_And_Organize\obj\x86\Debug\Find_And_Organize.Properties.Resources.resources
+C:\Users\dimmy\Desktop\Find_And_Organize\obj\x86\Debug\Find_And_Organize.csproj.GenerateResource.Cache
+C:\Users\dimmy\Desktop\Find_And_Organize\obj\x86\Debug\Find_And_Organize.frm_Renomear.resources
+C:\Users\dimmy\Desktop\Find_And_Organize\obj\x86\Debug\Find_And_Organize.frm_deletar.resources
+C:\Users\dimmy\Desktop\Find_And_Organize\obj\x86\Debug\Find_And_Organize.frm_inicio.resources
+C:\Users\dimmy\Desktop\Find_And_Organize\obj\x86\Debug\Find_And_Organize.frm_resultado.resources
+C:\Users\Orion\Desktop\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.exe
+C:\Users\Orion\Desktop\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.pdb
+C:\Users\Orion\Desktop\TCC\Find_And_Organize\bin\Debug\Find_And_Organize.exe
+C:\Users\Orion\Desktop\TCC\Find_And_Organize\bin\Debug\Find_And_Organize.pdb
+C:\Users\Orion\Desktop\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.csprojResolveAssemblyReference.cache
+C:\Users\Orion\Desktop\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.frm_deletar.resources
+C:\Users\Orion\Desktop\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.frm_inicio.resources
+C:\Users\Orion\Desktop\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.frm_resultado.resources
+C:\Users\Orion\Desktop\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.frm_principal.resources
+C:\Users\Orion\Desktop\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.frm_home.resources
+C:\Users\Orion\Desktop\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.frm_destino.resources
+C:\Users\Orion\Desktop\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.frm_enumerar.resources
+C:\Users\Orion\Desktop\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.frm_mover.resources
+C:\Users\Orion\Desktop\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.frm_origem.resources
+C:\Users\Orion\Desktop\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.Properties.Resources.resources
+C:\Users\Orion\Desktop\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.frm_Renomear.resources
+C:\Users\Orion\Desktop\TCC\Find_And_Organize\obj\x86\Debug\Find_And_Organize.csproj.GenerateResource.Cache
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\Find_And_Organize apresentado\obj\x86\Debug\Find_And_Organize.exe
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\Find_And_Organize apresentado\obj\x86\Debug\Find_And_Organize.pdb
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\Find_And_Organize apresentado\bin\Debug\Find_And_Organize.exe
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\Find_And_Organize apresentado\bin\Debug\Find_And_Organize.pdb
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\Find_And_Organize apresentado\obj\x86\Debug\Find_And_Organize.csprojResolveAssemblyReference.cache
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\Find_And_Organize apresentado\obj\x86\Debug\Find_And_Organize.frm_deletar.resources
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\Find_And_Organize apresentado\obj\x86\Debug\Find_And_Organize.frm_inicio.resources
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\Find_And_Organize apresentado\obj\x86\Debug\Find_And_Organize.frm_resultado.resources
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\Find_And_Organize apresentado\obj\x86\Debug\Find_And_Organize.frm_principal.resources
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\Find_And_Organize apresentado\obj\x86\Debug\Find_And_Organize.frm_home.resources
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\Find_And_Organize apresentado\obj\x86\Debug\Find_And_Organize.frm_destino.resources
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\Find_And_Organize apresentado\obj\x86\Debug\Find_And_Organize.frm_enumerar.resources
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\Find_And_Organize apresentado\obj\x86\Debug\Find_And_Organize.frm_mover.resources
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\Find_And_Organize apresentado\obj\x86\Debug\Find_And_Organize.frm_origem.resources
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\Find_And_Organize apresentado\obj\x86\Debug\Find_And_Organize.Properties.Resources.resources
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\Find_And_Organize apresentado\obj\x86\Debug\Find_And_Organize.frm_Renomear.resources
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\Find_And_Organize apresentado\obj\x86\Debug\Find_And_Organize.csproj.GenerateResource.Cache
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\obj\x86\Debug\Find_And_Organize.exe
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\obj\x86\Debug\Find_And_Organize.pdb
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\bin\Debug\Find_And_Organize.exe
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\bin\Debug\Find_And_Organize.pdb
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\obj\x86\Debug\Find_And_Organize.csprojResolveAssemblyReference.cache
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\obj\x86\Debug\Find_And_Organize.frm_deletar.resources
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\obj\x86\Debug\Find_And_Organize.frm_inicio.resources
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\obj\x86\Debug\Find_And_Organize.frm_resultado.resources
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\obj\x86\Debug\Find_And_Organize.frm_principal.resources
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\obj\x86\Debug\Find_And_Organize.frm_home.resources
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\obj\x86\Debug\Find_And_Organize.frm_destino.resources
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\obj\x86\Debug\Find_And_Organize.frm_enumerar.resources
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\obj\x86\Debug\Find_And_Organize.frm_mover.resources
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\obj\x86\Debug\Find_And_Organize.frm_origem.resources
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\obj\x86\Debug\Find_And_Organize.Properties.Resources.resources
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\obj\x86\Debug\Find_And_Organize.frm_Renomear.resources
+C:\Users\dimmy\Desktop\Find_And_Organize apresentado\obj\x86\Debug\Find_And_Organize.csproj.GenerateResource.Cache
+C:\Users\dimmy\Documents\GitHub\Find_And_Organize\F-O\obj\x86\Debug\Find_And_Organize.exe
+C:\Users\dimmy\Documents\GitHub\Find_And_Organize\F-O\obj\x86\Debug\Find_And_Organize.pdb
+C:\Users\dimmy\Documents\GitHub\Find_And_Organize\F-O\bin\Debug\Find_And_Organize.exe
+C:\Users\dimmy\Documents\GitHub\Find_And_Organize\F-O\bin\Debug\Find_And_Organize.pdb
+C:\Users\dimmy\Documents\GitHub\Find_And_Organize\F-O\obj\x86\Debug\Find_And_Organize.csprojResolveAssemblyReference.cache
+C:\Users\dimmy\Documents\GitHub\Find_And_Organize\F-O\obj\x86\Debug\Find_And_Organize.frm_deletar.resources
+C:\Users\dimmy\Documents\GitHub\Find_And_Organize\F-O\obj\x86\Debug\Find_And_Organize.frm_inicio.resources
+C:\Users\dimmy\Documents\GitHub\Find_And_Organize\F-O\obj\x86\Debug\Find_And_Organize.frm_resultado.resources
+C:\Users\dimmy\Documents\GitHub\Find_And_Organize\F-O\obj\x86\Debug\Find_And_Organize.frm_principal.resources
+C:\Users\dimmy\Documents\GitHub\Find_And_Organize\F-O\obj\x86\Debug\Find_And_Organize.frm_home.resources
+C:\Users\dimmy\Documents\GitHub\Find_And_Organize\F-O\obj\x86\Debug\Find_And_Organize.frm_destino.resources
+C:\Users\dimmy\Documents\GitHub\Find_And_Organize\F-O\obj\x86\Debug\Find_And_Organize.frm_enumerar.resources
+C:\Users\dimmy\Documents\GitHub\Find_And_Organize\F-O\obj\x86\Debug\Find_And_Organize.frm_mover.resources
+C:\Users\dimmy\Documents\GitHub\Find_And_Organize\F-O\obj\x86\Debug\Find_And_Organize.frm_origem.resources
+C:\Users\dimmy\Documents\GitHub\Find_And_Organize\F-O\obj\x86\Debug\Find_And_Organize.Properties.Resources.resources
+C:\Users\dimmy\Documents\GitHub\Find_And_Organize\F-O\obj\x86\Debug\Find_And_Organize.frm_Renomear.resources
+C:\Users\dimmy\Documents\GitHub\Find_And_Organize\F-O\obj\x86\Debug\Find_And_Organize.csproj.GenerateResource.Cache
